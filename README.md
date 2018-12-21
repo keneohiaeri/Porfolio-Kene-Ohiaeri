@@ -4,7 +4,7 @@ A minimalistic and also responsive portfolio page for Kene Ohiaeri (Product Desi
 
 Was designed with html and css, without any library.
 
-[Hosted Demo](https://stoic-galileo-4dd042.netlify.com)
+[Hosted Demo](https://keneohiaeri.com)
 
 lets [tweet](https://twitter.com/alphakoder) about cool stuffs
 
